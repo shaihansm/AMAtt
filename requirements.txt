@@ -1,0 +1,10 @@
+torch              2.6.0
+torchaudio         2.6.0
+torchvision        0.21.0
+numpy              2.0.2
+pillow             11.1.0
+ffmpeg             1.4
+scikit-learn       1.6.1
+scipy              1.13.1
+
+and the dependencies
